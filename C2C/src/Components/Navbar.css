@@ -1,15 +1,17 @@
 .navbar {
+  background-color: #000000;
   position: fixed;
   top: 0;
-  left: 0;
+  /* left: 0; */
   width: 100%;
   z-index: 1000;
-  height: 90px;
+  height: 70px;
   display: flex;
   align-items: center;
-  background: rgba(15, 15, 15, 0.95);
-  transition: all 0.4s ease;
-  padding: 0 2rem;
+  justify-content: space-between;
+  /* background: rgba(15, 15, 15, 0.95); */
+  /* transition: all 0.4s ease; */
+  padding: 0 50px;
 }
 .nav-container {
   display: flex;
