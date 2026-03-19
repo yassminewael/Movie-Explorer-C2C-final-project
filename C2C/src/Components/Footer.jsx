@@ -9,7 +9,7 @@ function Footer() {
 
         <div className="footer-section">
           <div className="footer-logo">
-            <span>MovieExplorer</span>
+            <span>Movie Explorer</span>
           </div>
 
           <p className="footer-desc">
@@ -49,7 +49,7 @@ function Footer() {
       
       <div className="footer-bottom">
         <div className="container">
-          <p>&copy; 2026 MovieExplorer. All cinematic rights reserved.</p>
+          <p>&copy; 2026 Movie Explorer. All cinematic rights reserved.</p>
           <div className="footer-legal">
             <Link to="#">Privacy Policy</Link>
             <Link to="#">Terms of Use</Link>
